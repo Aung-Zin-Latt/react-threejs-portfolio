@@ -204,67 +204,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "DNI (Daily Need Items) Ecommerce",
+    name: "DNI (Daily Need Items)",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "DNI is an online shopping store for selling and buying products. By just having a smartphone, it can easily accomplish all HR procedures, which is impressive. With this application, it’s easyto order your favorite products even though when you are on the go. It also includes delivery system and invoice system.",
     tags: [
       {
-        name: "react",
+        name: "laravel",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "liviwire",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    project_link: "https://github.com/",
-  },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    project_link: "https://github.com/",
+    project_link: "https://dnistore.com/",
   },
   {
-    name: "Trip Guide",
+    name: "SG Myanmar Info",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web-based platform that allows users to search, book, and manage Lands, Jobs from various providers. This website is an Information Sharing website. All front-end data are retrieved from the database using API.",
     tags: [
       {
-        name: "nextjs",
+        name: "Laravel",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Livewire",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "MySQL",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    project_link: "https://sgmyanmarinfo.com/",
+  },
+  {
+    name: "Invoce Ecommerce",
+    description:
+      "Developed an invoice system that allows businesses to easily create, manage, and send invoices to their clients. The system is built using Laravel Livewire and MySQL, and includes a user friendly interface that allows businesses to easily create and customize invoices, track payments, and generate reports.",
+    tags: [
+      {
+        name: "Laravel",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Livewire",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    project_link: "https://github.com/",
+    project_link: "https://mmeasyinvoice.com/",
   },
 ];
 
