@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import logo1 from "./aungzinlatlogo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -29,14 +29,16 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrent from "./dni1.png";
+// import jobit from "./jobit.png";
+import jobit from "./dni1.png";
+import tripguide from "./dni1.png";
+// import tripguide from "./tripguide.png";
 
 import react from "./react.svg";
 
 export {
-  logo,
+  // logo,
   logo1,
   backend,
   creator,
