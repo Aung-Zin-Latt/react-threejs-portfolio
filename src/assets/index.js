@@ -1,4 +1,4 @@
-import logo1 from "./aungzinlatlogo.svg";
+import logo from "./aungzinlatlogo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -17,25 +17,32 @@ import javascript from "./tech/javascript.png";
 import laravel from "./tech/laravel.svg";
 import livewire from "./tech/livewire.png"
 import jquery from "./tech/jquery.png";
+import ajax from "./tech/ajax.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import bootstrap from "./tech/bootstrap-5.svg";
 import threejs from "./tech/threejs.svg";
+import mysql from "./tech/mysql.png";
+import mssql from "./tech/mssql.png";
+import mongodb from "./tech/mongodb.png";
+import aws from "./tech/aws.png";
 
-import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import metropolis from "./company/metropolis.png";
+import itvisionhub from "./company/itvisionhub.png";
 
-import carrent from "./sginfo.png";
-import jobit from "./dni1.png";
-import tripguide from "./invoice.png";
+import eroster from "./projects/eroster.png";
+import vms from "./projects/vms.png";
+import emetro from "./projects/emetro.png";
+import sginfo from "./projects/sginfo.png";
+import dni from "./projects/dni.png";
+import invoice from "./projects/invoice.png";
 
 import react from "./react.svg";
 
 export {
-  logo1,
+  logo,
   backend,
   creator,
   mobile,
@@ -53,17 +60,24 @@ export {
   laravel,
   livewire,
   jquery,
+  ajax,
   reactjs,
   redux,
   tailwind,
   bootstrap,
   threejs,
-  meta,
+  mysql,
+  mssql,
+  mongodb,
+  aws,
   shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  metropolis,
+  itvisionhub,
+  eroster,
+  vms,
+  emetro,
+  sginfo,
+  dni,
+  invoice,
   react,
 };

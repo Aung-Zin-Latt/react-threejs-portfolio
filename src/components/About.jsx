@@ -1,5 +1,5 @@
 import React from "react";
-import Tilt from "react-tilt";
+import Tilt from 'react-parallax-tilt';
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I am a Senior Full Stack Developer with over 7 years of hands-on coding experience and more than 6 years of industry experience in building scalable web applications and system solutions. I specialize in both frontend and backend development, and modern web technologies.
+
+        Driven by a passion for continuous learning and problem-solving, I thrive in dynamic environments where software can make a meaningful impact—both for individuals and organizations. My work goes beyond just writing code; I enjoy contributing to software strategies that enhance customer satisfaction and deliver exceptional user experiences.
+
+        I am confident working independently and also value the power of collaboration. I adapt quickly, communicate effectively with cross-functional teams, and always take ownership of my responsibilities to deliver results.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
